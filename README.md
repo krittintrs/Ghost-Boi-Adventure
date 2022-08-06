@@ -3,5 +3,5 @@ Ghost Boi Adventure is a 2D RPG &amp; Puzzle game where you can play as a boy wh
 
 # How-To-Play
 1. Download the whole directory
-2. Run `GhostBoiAdventure\src\mainGame\Main.java`
+2. Run `Ghost-Boi-Adventure/src/mainGame/Main.java`
 3. Enjoy the game!
