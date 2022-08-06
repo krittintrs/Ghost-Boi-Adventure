@@ -7,3 +7,8 @@ Created by using Java language (6 Packages & 26 Classes)
 1. Download the whole directory
 2. Run `Ghost-Boi-Adventure/src/mainGame/Main.java`
 3. Enjoy the game!
+
+# Note
+- Special thanks to [RyiSnow](https://www.youtube.com/c/RyiSnow) who make an extremely well-describe tutorial to make a game by using Java. Check his playlist [here](https://www.youtube.com/playlist?list=PL_QPQmz5C6WUF-pOQDsbsKbaBZqXj4qSq)
+- All pixel art were created by me via [Piskel](https://www.piskelapp.com/)
+- This project is a part of my first year project in university 
