@@ -35,6 +35,7 @@ public class Main {
 		Frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		Frame.setResizable(false);
 		Frame.setLocationRelativeTo(null);
+		Frame.setTitle("Ghost Boi Adventure");
 		
 		while(programLoop) {
 			
@@ -101,5 +102,6 @@ public class Main {
 		gameFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		gameFrame.setResizable(false);
 		gameFrame.setLocationRelativeTo(null);
+		gameFrame.setTitle("Ghost Boi Adventure");
 	}
 }
